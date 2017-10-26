@@ -1,8 +1,7 @@
 # Portfolio
 A curated list of all my data science projects
 
-### Data Science Capstone Project Member
-### Pacific Northwest National Laboratory, Richland, WA
+**Data Science Capstone Project Member**, *Pacific Northwest National Laboratory, Richland, WA*
 
 [Network Analysis and Visualization of Energy Research domain](https://github.com/rahulavadhoot/KnowledgeNetworks) (Industry Partnered Capstone Project)
 -	Wrote Python scripts for web-scraping, cleaning data (30,000 rows) from academic citation indexes
