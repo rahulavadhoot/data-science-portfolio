@@ -1,13 +1,13 @@
 # Portfolio
 A curated list of all my data science projects
 
-## Data Science Capstone Project Member, Pacific Northwest National Laboratory, Richland, WA          Mar 2017-Jul 2017
+### Data Science Capstone Project Member, Pacific Northwest National Laboratory, Richland, WA          Mar 2017-Jul 2017
 
 Network Analysis and Visualization of Energy Research domain (Industry Partnered Capstone Project)
 -	Wrote Python scripts for web-scraping, cleaning data (30,000 rows) from academic citation indexes
 -	Built and analyzed knowledge network to identify clusters; Used regression analysis for testing hypotheses
 
-## Data Science Trainee, Clean Energy Institute, University of Washington, Seattle, WA		         Jan 2017-Mar 2017
+### Data Science Trainee, Clean Energy Institute, University of Washington, Seattle, WA		         Jan 2017-Mar 2017
 
 Time Series Forecast of Renewable Energy in the United States (Coursework Project)
 -	Parsed, cleaned data from government databases; Developed software for model training and evaluation
