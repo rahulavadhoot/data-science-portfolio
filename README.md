@@ -8,6 +8,8 @@ Network Analysis and Visualization of Energy Research domain (Industry Partnered
 -	Wrote Python scripts for web-scraping, cleaning data (30,000 rows) from academic citation indexes
 -	Built and analyzed knowledge network to identify clusters; Used regression analysis for testing hypotheses
 
+[a link](https://github.com/rahulavadhoot/KnowledgeNetworks)
+
 ### Data Science Trainee
 ### Clean Energy Institute, University of Washington, Seattle, WA
 
