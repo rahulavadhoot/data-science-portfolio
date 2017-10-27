@@ -3,8 +3,9 @@ A curated list of all my data science projects
 
 For more information:
 
-[LinkedIn](https://www.linkedin.com/in/rahulavadhoot/)
+[GitHub](https://github.com/rahulavadhoot)
 
+[LinkedIn](https://www.linkedin.com/in/rahulavadhoot/)
 
 [Tableau](https://public.tableau.com/profile/rahul1168#!/)
 
