@@ -50,7 +50,7 @@ For more information:
 
 ### Other Coursework Projects 
 
-Analyzed health datasets in R for regression analysis and visualization (Coursework Project)
+[Analyzed health datasets in R for regression analysis and visualization](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/R%20for%20health%20data) (Coursework Project)
 
 - 
 
