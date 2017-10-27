@@ -7,8 +7,7 @@ A curated list of all my data science projects
 -	Wrote Python scripts for web-scraping, cleaning data (30,000 rows) from academic citation indexes
 -	Built and analyzed knowledge network to identify clusters; Used regression analysis for testing hypotheses
 
-### Data Science Trainee
-### Clean Energy Institute, University of Washington, Seattle, WA
+**Data Science Trainee**, *Clean Energy Institute, University of Washington, Seattle, WA*
 
 [Time Series Forecast of Renewable Energy in the United States](https://github.com/rahulavadhoot/Clean-Energy-Outlook) (Coursework Project)
 -	Parsed, cleaned data from government databases; Developed software for model training and evaluation
@@ -20,8 +19,18 @@ A curated list of all my data science projects
 [K-Nearest Neighbors Classifier](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/k%20nearest%20neighbors%20classifier) (Coursework Project)
 -	Developed own implementation of K-Nearest Neighbors Classifier to predict atom type based on its radius
 
+[Statistical Analysis of Energy and Water Consumption](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/energy%20and%20water%20consumption) (Coursework Project)
+
+- 
+
+Other Coursework Projects 
+
 Analyzed health datasets in R for regression analysis and visualization (Coursework Project)
 
 Analyzed US flight database using SQLite, SQL Server and Azure (Coursework Project)
 
-[Statistical Analysis of Energy and Water Consumption](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/energy%20and%20water%20consumption) (Coursework Project)
+Independent Projects
+
+[House Price Prediction](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/house%20prices)
+
+[Titanic: Machine Learning from Disaster](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/titanic)
