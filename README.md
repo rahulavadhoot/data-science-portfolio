@@ -48,3 +48,7 @@ Analyzed US flight database using SQLite, SQL Server and Azure (Coursework Proje
 [Titanic: Machine Learning from Disaster](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/titanic)
 
 -
+
+[US Flight Data](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/us%20flight%20data%20project)
+
+- 
