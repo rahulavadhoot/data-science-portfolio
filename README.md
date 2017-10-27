@@ -21,15 +21,19 @@ A curated list of all my data science projects
 
 [Regression Analysis of Harvard Clean Energy Project Database](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/harvard%20clean%20energy%20project%20database) (Coursework Project)
 
--	Developed regression models and used hypothesis testing to analyze effects on power conversion efficiency
+-	Developed regression models and used hypothesis testing to analyze effects of voltage, current on power conversion efficiency
+- Performed logistic regression on the Loan Default dataset in Introduction to Statistical Learning book
+- Used resampling methods like bootstraping to plot Mean Standard Error (MSE) vs number of bootstrap samples
 
 [K-Nearest Neighbors Classifier](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/k%20nearest%20neighbors%20classifier) (Coursework Project)
 
 -	Developed own implementation of K-Nearest Neighbors Classifier to predict atom type based on its radius
+- Wrote unit tests to test the written functions; Tested atomradii data for different k values; Achieved accuracy of upto 80%
 
 [Statistical Analysis of Energy and Water Consumption](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/energy%20and%20water%20consumption) (Coursework Project)
 
-- 
+- Performed descriptive statistical analysis of the data; Calculated descriptive statistical calculations and plotted box plots
+- Plotted normalized histograms and probability distribution functions; Performed hypothesis testing for various hypotheses
 
 ### Other Coursework Projects 
 
@@ -45,11 +49,14 @@ Analyzed US flight database using SQLite, SQL Server and Azure (Coursework Proje
 
 [House Prices: Advanced Regression Techniques](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/house%20prices)
 
-- 
+- Conducted feature selection for training the regression model; Used ridge regression with alpha value of 1 for modeling
+- Achieved coefficient of determination R-squared value of ~0.81
 
 [Titanic: Machine Learning from Disaster](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/titanic)
 
--
+- Cleaned the data; Performed statistical analysis and selected relevent features to train the machine learning model
+- Used Decision Trees, Random Forests, Support Vector Machines and Deep Learning to predict survival
+- Achieved accuracy of ~81% using Random Forests Classifier
 
 [US Flight Data](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/us%20flight%20data%20project)
 
