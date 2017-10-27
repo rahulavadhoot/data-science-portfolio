@@ -1,6 +1,8 @@
 # Portfolio
 A curated list of all my data science projects
 
+### Work Experience
+
 **Data Science Capstone Project Member**, *Pacific Northwest National Laboratory, Richland, WA*
 
 [Network Analysis and Visualization of Energy Research domain](https://github.com/rahulavadhoot/KnowledgeNetworks) (Industry Partnered Capstone Project)
@@ -23,13 +25,13 @@ A curated list of all my data science projects
 
 - 
 
-Other Coursework Projects 
+### Other Coursework Projects 
 
 Analyzed health datasets in R for regression analysis and visualization (Coursework Project)
 
 Analyzed US flight database using SQLite, SQL Server and Azure (Coursework Project)
 
-Independent Projects
+### Independent Projects
 
 [House Price Prediction](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/house%20prices)
 
