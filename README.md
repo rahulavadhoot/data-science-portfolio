@@ -44,6 +44,9 @@ to track collaborations in nuclear energy research from 2000-2016.
 An auto-regressive (AR) forecasting model and a Tableau [dashboard](https://public.tableau.com/profile/rahul1168#!/vizhome/TableauWorkbookforSVRPrediction/CleanEnergyProductioninthecontiguousUnitedStates)
 to visualize the past and future clean energy demand of the United States
 
+    - [Indeed Job Postings Analysis](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/data%20analysis/indeed%20job%20postings): 
+Indeed web-scraping script to retrieve job details of latest postings.
+
     - [Academic Faculty Salary Analysis](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/the%20data%20incubator): 
 Google Scholar web-scraping script to retrieve citation metrics of researchers and correlation analysis of total number of citations with salary of faculty at the University of Washington.
 
