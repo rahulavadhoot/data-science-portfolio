@@ -32,6 +32,10 @@ Exploratory analysis and classification models to classify mushrooms as edible o
 
 - ### Natural Language Processing
 
+    - [Disasters on Social Media](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/natural%20language%20processing/Disasters%20on%20social%20media/Disasters%20on%20social%20media.ipynb):
+Exploratory analysis and classification models like bag-of-words, Tf-Idf, Word2Vec, and CNN to detect which tweets are about a disastrous event as opposed to an irrelevant topic with accuracies of ~80% 
+
+    *Tools: NLTK, scikit-learn, Keras, Pandas*
 
 - ### Time Series
 
