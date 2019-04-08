@@ -8,12 +8,11 @@ profile for more information.
 
 - ### Machine Learning
 
-    - [SMDT: A Generalizable Tool for Small-Molecule Property Prediction](https://github.com/BeckResearchLab/small-molecule-design-toolkit):
+    - [PyMolSAR: A Generalizable Tool for Small-Molecule Property Prediction](https://github.com/BeckResearchLab/PyMolSAR):
 A Python package to calculate molecular descriptors and test out several different supervised learning algorithms to build the most-appropriate Quantitative Structure-Activity Relationship (QSAR) model that accurately predicts the chemical properties of small molecules.
 
     - [E-Commerce Product Classifier](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/machine%20learning/e-commerce%20products/e-commerce%20products.ipynb):
-An ensemble model for classifying e-commerce products into product categories using a 
-bag-of-words model for text data and a pre-trained VGG-16 model for image data. 
+An ensemble model for classifying e-commerce products into product categories using a bag-of-words model for text data and a pre-trained VGG-16 model for image data. 
 
     - [RMS Titanic Passenger Survival](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/machine%20learning/titanic/titanic.ipynb):
 Exploratory Analysis and a classification model to predict the survival of the passengers onboard RMS Titanic. 
