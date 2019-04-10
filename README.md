@@ -27,6 +27,10 @@ Various classification models with metrics to classify Iris flowers into 3 class
     - [Classifying Mushrooms](https://github.com/rahulavadhoot/Portfolio/tree/master/projects/machine%20learning/mushrooms/mushroom.ipynb):
 Exploratory analysis and classification models to classify mushrooms as edible or poisonous
 
+    - [Movie Recommendations](https://github.com/rahulavadhoot/portfolio/blob/master/projects/recommender%20system/movielens/movielens.ipynb):
+Content-based recommender for movies based on the similarity of the items being recommended.
+
+
     *Tools: scikit-learn, Keras, Pandas*
 
 - ### Natural Language Processing
