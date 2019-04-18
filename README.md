@@ -1,7 +1,7 @@
 # Data Science Portfolio
 A curated list of my data science projects.
 Check out my [LinkedIn](https://www.linkedin.com/in/rahulavadhoot/) 
-profile for more information.
+profile, [certificates](https://github.com/rahulavadhoot/certificates/), and [website](http://rahulavadhoot.github.io/) for more information.
 
 *Note: Data used in the projects is for demonstration purposes only.*
 ## Contents
